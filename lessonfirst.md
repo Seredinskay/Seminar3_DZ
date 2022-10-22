@@ -15,3 +15,5 @@ _код_
 Присылайте письма на <seredinskayakristina@mail.ru>
 
 [https://www.google.com] 
+
+! [Пейзажи природы] ( "image.png" https://7oom.ru/wp-content/uploads/foto-priroda-23.jpg)
